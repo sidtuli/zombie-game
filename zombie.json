@@ -1,0 +1,528 @@
+{
+  "sequences": [
+    {
+      "storyText": "GAME OVER!",
+      "options": [
+        {
+          "choiceText": "Try Again?",
+          "resultPlacement": 1,
+          "resultText": ""
+        }
+      ]
+    },
+    {
+      "storyText": "You are taking the place of Beenak Stavros. It is 7 AM and you are asleep in your bed. Do you wake up?",
+      "options": [
+        {
+          "choiceText": "Yes",
+          "resultPlacement": 2,
+          "resultText": "You get out of bed."
+        },
+	{
+          "choiceText": "No",
+          "resultPlacement": 0,
+          "resultText": "You die in your sleep."
+        }
+      ]
+    },
+    {
+      "storyText": "You are now awake. You get up and about, and get dressed and hit the bathroom. What shall you do now in your apartment?",
+      "options": [
+        {
+          "choiceText": "Eat breakfast",
+          "resultPlacement": 26,
+          "resultText": "You head over to your kitchen."
+        },
+	{
+          "choiceText": "Watch TV",
+          "resultPlacement": 3,
+          "resultText": "You automatically see reports advising citizens to evacuate and leave."
+        },
+	{
+          "choiceText": "Leave the apartment and head downstairs",
+          "resultPlacement": 4,
+          "resultText": "You head down the stairs and hear some odd mashing and grunting sounds."
+        },
+	{
+          "choiceText": "Jump out the window",
+          "resultPlacement": 0,
+          "resultText": "Wow. You're an idiot! You are now a 'splat' on the ground."
+        }
+      ]
+    },
+    {
+      "storyText": "You turn off the TV  after seeing the horrifying reports.You immediately remember your brother and you must save him. What shall you do?",
+      "options": [
+        {
+          "choiceText": "Leave the apartment and head downstairs",
+          "resultPlacement": 4,
+          "resultText": "You head down the stairs and hear some odd mashing and grunting sounds."
+        },
+	{
+          "choiceText": "Jump out the window",
+          "resultPlacement": 0,
+          "resultText": "Wow. You're an idiot! You are now a splat on the ground."
+        }
+      ]
+    },
+    {
+      "storyText": "You immediately encounter a human, though with missing skin and several limbs. Said human is eating another dead man's brains. What shall you do?",
+      "options": [
+        {
+          "choiceText": "Hug the zombie",
+          "resultPlacement": 0,
+          "resultText": "You are immediately bitten and turn into a zombie."
+        },
+	{
+          "choiceText": "Join in and eat the brains",
+          "resultPlacement": 0,
+          "resultText": "The zombie is very selfish and eats you so that he doesn't have to share."
+        },
+	{
+          "choiceText": "Tiptoe around the zombie",
+          "resultPlacement": 5,
+          "resultText": "The zombie doesn't notice you and you arrive at the lobby of your apartment complex."
+        }
+      ]
+    },
+    {
+      "storyText": "Arriving at the lobby you must now find a way to your brother's place. The front doors are locked and barricaded however. How shall you do this?",
+      "options": [
+	{
+          "choiceText": "Scrounge around for something to break the doors open",
+          "resultPlacement": 6,
+          "resultText": "You break into the security office. You encounter the dead body of the secretary, who shot himself in the head."
+        },
+	{
+          "choiceText": "Head back to find other exits",
+          "resultPlacement": 7,
+          "resultText": "As you walk around you find another survivor, Amanda."
+        },
+	{
+          "choiceText": "Ram the doors",
+          "resultPlacement": 8,
+          "resultText": "You immediately set off the alarms as you break through the glass."
+        }
+        
+        
+      ]
+    },
+    {
+      "storyText": "There are several items to choose from in the room. What shall you do?",
+      "options": [
+        {  "choiceText": "Search the body of the secretary",
+          "resultPlacement": 0,
+          "resultText": "The secretary suddenly rises and bites you, infecting you with the zombie virus."
+        },
+	{  "choiceText": "Look for some weapons",
+          "resultPlacement": 9,
+          "resultText": "You don't happen to find any real weapons but you do encounter some key cards to open the doors."
+        },
+	{  "choiceText": "Leave",
+          "resultPlacement": 0,
+          "resultText": "As your back is turned, the zombified secretary bites you and feasts on your flesh."
+        }
+      ]
+    },
+    {
+      "storyText": "She pleads with you to help her husband, who she lost in the ensuing panic from the zombies. What shall you do?",
+      "options": [
+        {
+          "choiceText": "Run Away",
+          "resultPlacement": 0,
+          "resultText": "You trip and immediately bash your head in."
+        },
+	{
+          "choiceText": "Follow her",
+          "resultPlacement": 10,
+          "resultText": "You follow along and actually find her husband,knocked out on the floor but not dead."
+        }
+      ]
+    },
+    {
+      "storyText": "All the zombies in the area swarm to you. What shall you do?",
+      "options": [
+        {
+          "choiceText": "Run",
+          "resultPlacement": 0,
+          "resultText": "You immediately trip and the zombies dine on your entrails as you try to get up."
+        },
+	{
+          "choiceText": "Hide",
+          "resultPlacement": 11,
+          "resultText": "You immediately break into your car. You slam the doors shut."
+        },
+	{
+          "choiceText": "Pray",
+          "resultPlacement": 0,
+          "resultText": "Because you are actually quite the sinner, God smites thee with furious vengeance."
+        }
+      ]
+    },
+    {
+      "storyText": "You use the key cards to open the doors of the lobby and walk out onto the street. The street is not empty, there are a few zombies here and there but not swarming at you. How shall you proceed?",
+      "options": [
+        {
+          "choiceText": "Get into your car",
+          "resultPlacement": 12,
+          "resultText": "You open the car and get in, however when you rev up the engine zombies hear the noise"
+        },
+	{
+          "choiceText": "Walk over to your brother's place",
+          "resultPlacement": 0,
+          "resultText": "On the way to your brother's place, you encounter a zombie horde in an alley shortcut and are immediately cornered in and consumed"
+        },
+	{
+          "choiceText": "Cover yourself in entrails",
+          "resultPlacement": 0,
+          "resultText": "It begins to rain, the effects entrails diminishes and the zombies eat you."
+        }
+      ]
+    },
+    {
+      "storyText": "You notice that the husband has bled a little. What shall you do?",
+      "options": [
+        {
+          "choiceText": "Inspect the body",
+          "resultPlacement": 13,
+          "resultText": "You immediately notice a bite on his underside."
+        },
+	{
+          "choiceText": "Run away",
+          "resultPlacement": 0,
+          "resultText": "As true to your bumbling nature, you trip and break your head open"
+        },
+	{
+          "choiceText": "Bust his head",
+          "resultPlacement": 0,
+          "resultText": "You pick up a nearby stone and complete said task, but then Amanda kills you for killing her husband."
+        }
+      ]
+    },
+    {
+      "storyText": "The zombie horde constantly beats on your doors and windows of your car. What shall you do?",
+      "options": [
+        {
+          "choiceText": "Rev up the engine and drive off",
+          "resultPlacement": 14,
+          "resultText": "You immediately bust through the zombie hordes and drive on from downtown to the center of town"
+        },
+	{
+          "choiceText": "Rev the engine and reverse",
+          "resultPlacement": 0,
+          "resultText": "Your car gets stuck on a zombie you hit in the back. The zombies break in and eat you."
+        },
+	{
+          "choiceText": "Wait for rescue",
+          "resultPlacement": 0,
+          "resultText": "The thing is people give up, but zombies don't got the mind to. They eventually break into the car and eat you."
+        }
+      ]
+    },
+    {
+      "storyText": "There is a relatively small group of zombies, so where shall you drive?",
+      "options": [
+        {
+          "choiceText": "Uptown",
+          "resultPlacement": 0,
+          "resultText": "Turns out uptown is filled with an insane amount of zombies. They stop your car in its tracks and they break in to gorge on your guts."
+        },
+	{
+          "choiceText": "Center",
+          "resultPlacement": 15,
+          "resultText": "You drive up to your brother's block"
+        },
+	{
+          "choiceText": "Outskirts of town",
+          "resultPlacement": 16,
+          "resultText": "You encounter a camp of survivors from the recent carpet bombing."
+        }
+      ]
+    },
+    {
+      "storyText": "Amanda's husband begins to awake. What shall you do?",
+      "options": [
+        {
+          "choiceText": "Beat his head in",
+          "resultPlacement": 18,
+          "resultText": "After killing her husband , you explain to her the recent zombification of many but she still runs off crying."
+        },
+	{
+          "choiceText": "Let him wake up",
+          "resultPlacement": 17,
+          "resultText": "As he wakes up he explains to you about how a random dog bit him."
+        },
+	{
+          "choiceText": "Run away",
+          "resultPlacement": 0,
+          "resultText": "As true to your bumbling nature, you trip and break your head open"
+        }
+      ]
+    },
+    {
+      "storyText": "You get out of the car and walk into your brother's apartment complex",
+      "options": [
+        {
+          "choiceText": "Immediately run up to his apartment",
+          "resultPlacement": 0,
+          "resultText": "True to being a klutz, you trip on the stairs and fall all the way down, killing yourself from the multiple wounds and fractures."
+        },
+	{
+          "choiceText": "Buzz up to his room",
+          "resultPlacement": 19,
+          "resultText": "As you get behind the secretary's desk, you find a whole series of notes left by all of the apartment's tenants to their loved ones"
+        },
+	{
+          "choiceText": "Leave a note",
+          "resultPlacement": 0,
+          "resultText": "As you reach for some paper in a back room, a zombie tenant sneaks up and bites you."
+        }
+      ]
+    },
+    {
+      "storyText": "You enter through the back entrance of your brother's apartment building. You are now inside, what shall you do now?",
+      "options": [
+        {
+          "choiceText": "Run up the stairs",
+          "resultPlacement": 0,
+          "resultText": "You trip and while you try to get up, one the tenants takes quite an interest in your brains"
+        },
+	{
+          "choiceText": "Run to the lobby",
+          "resultPlacement": 19,
+          "resultText": "As you get behind the secretary's desk, you find a whole series of notes left by all of the apartment's tenants to their loved ones"
+        },
+	{
+          "choiceText": "Leave a note",
+          "resultPlacement": 0,
+          "resultText": "As you reach for some paper in a back room, a zombie of a tenant sneaks up and bites you."
+        }
+      ]
+    },
+    {
+      "storyText": "Some of the survivors look at you suspiciously, some kindly. What shall you do?",
+      "options": [
+        {
+          "choiceText": "Enter the camp",
+          "resultPlacement": 25,
+          "resultText": "You immediately find your brother, who had found his way out of the city"
+        },
+	{
+          "choiceText": "Leave to find your brother in the city",
+          "resultPlacement": 0,
+          "resultText": "You immediately run out of gas in the city and zombies finally catch up to you and eat you"
+        },
+	{
+          "choiceText": "Head off into the countryside",
+          "resultPlacement": 0,
+          "resultText": "You run out of gas in the middle of nowhere. When winter comes, you freeze to death."
+        }
+      ]
+    },
+    {
+      "storyText": "After getting her husband, Carl, up and patched up, Anna leads you out through an alternate exit in the building. What shall you do now?",
+      "options": [
+        {
+          "choiceText": "Get into your car",
+          "resultPlacement": 20,
+          "resultText": "You say your goodbyes to Amanda and Carl as they head off in search of their son, you head over to your car. When you rev up your engine, the zombie horde is immediately alerted to your presence and begin to swarm."
+        },
+	{
+          "choiceText": "Move as a group on foot",
+          "resultPlacement": 0,
+          "resultText": "Your group gets trapped in a cunning pincer movement by the zombies in an alley and you are all eaten."
+        },
+	{
+          "choiceText": "Use the two as zombie fodder",
+          "resultPlacement": 0,
+          "resultText": "You push the two in front of the zombies and they are eaten, but Amanda makes sure to drag you back with them with her dying breath."
+        }
+      ]
+    },
+    {
+      "storyText": "You find an alternate exit from the building. What do you do now?",
+      "options": [
+        {
+          "choiceText": "Get into your car",
+          "resultPlacement": 0,
+          "resultText": "When you rev up your engine, the zombie horde is immediately alerted to your presence and begin to swarm."
+        },
+	{
+          "choiceText": "Walk on through the city",
+          "resultPlacement": 20,
+          "resultText": "You get trapped in a cunning pincer movement by the zombies in an alley and you are eaten."
+        }
+      ]
+    },
+    {
+      "storyText": "One note is addressed to you from your brother, telling you to meet him outside. Sirens immediately sound out.",
+      "options": [
+        {
+          "choiceText": "Just stand there",
+          "resultPlacement": 0,
+          "resultText": "You enter the other world from Silent Hill and Pyramid head kills you."
+        },
+	{
+          "choiceText": "Run to your car",
+          "resultPlacement": 21,
+          "resultText": "You get into your car and speed on out."
+        },
+	{
+          "choiceText": "Go up the staircase",
+          "resultPlacement": 0,
+          "resultText": "You trip and break your head open"
+        }
+      ]
+    },
+    {
+      "storyText": "With zombies beating on your door. What shall you do?",
+      "options": [
+        {
+          "choiceText": "Drive to your brother's apartment",
+          "resultPlacement": 22,
+          "resultText": "On your way sirens ring out."
+        },
+	{
+          "choiceText": "Ditch town",
+          "resultPlacement": 0,
+          "resultText": "You don't have enough gas and are stuck as the whole town is carpet bombed."
+        },
+	{
+          "choiceText": "Sit there",
+          "resultPlacement": 0,
+          "resultText": "You suddenly are killed by the carpet bombing for the quarantine."
+        }
+      ]
+    },
+    {
+      "storyText": "As you are racing out, the airforce begins to carpet-bomb the town. How shall you drive?",
+      "options": [
+        {
+          "choiceText": "Take a shortcut",
+          "resultPlacement": 0,
+          "resultText": "The alley your shortcut goes through is filled with zombies and they stop you from proceeding. You die in the carpet-bombing."
+        },
+	{
+          "choiceText": "Take the normal route",
+          "resultPlacement": 23,
+          "resultText": "You reach the outskirts of the town."
+        },
+	{
+          "choiceText": "Go reverse",
+          "resultPlacement": 0,
+          "resultText": "Wh-For what reas-....You reverse back into the carpet bombing and die. Good Job!"
+        }
+      ]
+    },
+    {
+      "storyText": "You arrive at your brother's apartment as the carpet bombing is about to commence. What shall you do?",
+      "options": [
+        {
+          "choiceText": "Head on in",
+          "resultPlacement": 0,
+          "resultText": "You go in and you head on up to your brother's apartment. You bust through the door but you're too late, the carpet-bombing reaches you."
+        },
+	{
+          "choiceText": "Keep going out of town",
+          "resultPlacement": 23,
+          "resultText": "You escape the carpet bombing and arrive on the outskirts of the town."
+        },
+	{
+          "choiceText": "Head to the diner",
+          "resultPlacement": 27,
+          "resultText": "You arrive and find a menu filled a delectable amount of dishes."
+        }
+      ]
+    },
+    {
+      "storyText": "You arrive at a refugee camp of survivors. What shall you do?",
+      "options": [
+        {
+          "choiceText": "Search the camp",
+          "resultPlacement": 24,
+          "resultText": "You talk to the survivors and they tell you that your brother left, giving you directions on how to find him."
+        },
+	{
+          "choiceText": "Go to the countryside",
+          "resultPlacement": 0,
+          "resultText": "You run out of gas and are stranded in the middle of nowhere as you die of starvation."
+        },
+	{
+          "choiceText": "Go back to town",
+          "resultPlacement": 0,
+          "resultText": "You hit a piece of rubble and crash out of your car, dead."
+        }
+      ]
+    },
+    {
+      "storyText": "What shall you do now?",
+      "options": [
+        {
+          "choiceText": "Follow the directions",
+          "resultPlacement": 0,
+          "resultText": "The search for your brother shall be continued in: ZOMBI 2-Revengeance"
+        },
+	{
+          "choiceText": "Burn the directions",
+          "resultPlacement": 0,
+          "resultText": "You accidentally set yourself on fire as well as the camp"
+        }
+      ]
+    },
+    {
+      "storyText": "What shall you do?",
+      "options": [
+        {
+          "choiceText": "Run away",
+          "resultPlacement": 0,
+          "resultText": "You trip and smash your head open."
+        },
+	{
+          "choiceText": "Stay",
+          "resultPlacement": 0,
+          "resultText": "You reunite with your brother and come to lead the survivors on in this era of a zombie apocalypse as the zombi virus spreads out  of the city......to be continued in ZOMBI 2: REVENGEANCE! YOU WIN!"
+        }
+      ]
+    },
+    {
+      "storyText": "You have quite a variety of foods to choose from. What shall you eat?",
+      "options": [
+        {
+          "choiceText": "Lemon cake with a fine cup of black coffee",
+          "resultPlacement": 0,
+          "resultText": "Lemon cake is filled with cyanide, as you bite in you seal your fate to that of oblivion."
+        },
+	{
+          "choiceText": "A big bowl of cereal with banana",
+          "resultPlacement": 0,
+          "resultText": "You fall in and drown in the bowl of cereal due to your lack of swimming skills."
+        },
+	{
+          "choiceText": "A stack of pancakes with fine pear syrup and orange juice",
+          "resultPlacement": 0,
+          "resultText": "You hear a ticking sound and realize that your pancakes are hollowed out. The bomb inside them explodes and kills you."
+        }
+      ]
+    },
+    {
+      "storyText": "The zombified waitress is ready to take your order. What shall you order?",
+      "options": [
+        {
+          "choiceText": "Some nice powdered french toast with a good helping of maple syrup and coffee",
+          "resultPlacement": 0,
+          "resultText": ""
+        },
+	{
+          "choiceText": "An American hamburger with a coke and fries",
+          "resultPlacement": 0,
+          "resultText": "You bite into the patty and it tastes odd. You open up the burger and encounter human brains and, in shock, you choke to death on your last meal."
+        },
+	{
+          "choiceText": "A hard drink",
+          "resultPlacement": 0,
+          "resultText": "One drink turns into many. You wake up the next day with a bite on your neck and the zombie waitress beside you. Now you will have to live out your days in your new life as a zombie husband. YOU WIN? .....to be continued in ZOMBI 2:REVENGEANCE"
+        }
+      ]
+    }
+  ]
+}
