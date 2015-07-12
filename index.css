@@ -5,6 +5,7 @@ button {
 }
 
 div {
+  font-size: 1em;
   text-align: center;
   display: block;
   width: 90%;
